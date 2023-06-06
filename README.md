@@ -1,5 +1,6 @@
 <div align="right">
-
+    
+[![Github Badge](https://img.shields.io/badge/denizdgn-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/denizdgn)](https://github.com/denizdgn)
 [![Medium Badge](https://img.shields.io/badge/@deenizzdogan-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@deenizzdogan)](https://medium.com/@deenizzdogan)
 [![Gmail Badge](https://img.shields.io/badge/deenizzdogan-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:deenizzdogan@gmail.com)](mailto:deenizzdogan@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/denizdogan-/)](https://www.linkedin.com/in/denizdogan-/)
@@ -12,15 +13,6 @@ Hopefully some details will come here soon, waiting for the inspiration fairy :f
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
