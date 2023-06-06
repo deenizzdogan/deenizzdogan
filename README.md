@@ -7,7 +7,7 @@
 
 </div>
 
-# Hi there! :beers:
+# Hi there! 
 
 Hopefully some details will come here soon, waiting for the inspiration fairy :face_in_clouds:
 
